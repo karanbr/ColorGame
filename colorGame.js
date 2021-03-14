@@ -120,6 +120,7 @@ function addColors() {
     }
 };
 
+// hello
 // Previous
 // OLD CODE (parts):
 
