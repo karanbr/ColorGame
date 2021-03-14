@@ -120,7 +120,7 @@ function addColors() {
     }
 };
 
-
+// Previous
 // OLD CODE (parts):
 
 // easyButton.addEventListener("click", function () {
